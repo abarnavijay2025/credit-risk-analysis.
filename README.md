@@ -114,7 +114,8 @@ model = pickle.load(open("models/trained_model.pkl", "rb"))
 
 ## 8. Author
 
-Abarna 
+Name: Abarna
+
 Contact: abarnavijayanad@gmail.com
 
 
